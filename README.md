@@ -4,7 +4,7 @@ Gokathon it2 Project - Coalarm
 
     Alarming service needed cooperation with other users
 
-Implemented Funcationality - Sign up ,Sign in, Single Alarm
+Implemented Funcationality - Sign up ,Sign in, Single Alarm, Server Push
 
 Implemented UI - Login Activity (Main), Sign up
 
