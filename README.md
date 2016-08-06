@@ -8,3 +8,7 @@ Implemented Funcationality - Sign up ,Sign in, Single Alarm
 
 Implemented UI - Login Activity (Main), Sign up
 
+remained issue
+
+    UI: Alarm list, Added Alarm, etc ...
+    Functionality: Multiusers alarm communication, Friends management, etc ...
