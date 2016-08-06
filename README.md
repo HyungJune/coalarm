@@ -2,4 +2,4 @@
 
 Gokathon it2 Project - Coalarm
 
-    Alarming Service needed cooperation with other users
+    Alarming service needed cooperation with other users
